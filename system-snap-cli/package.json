@@ -1,0 +1,12 @@
+{
+  "name": "system-snap-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  },
+  "bin": {
+    "system-snap-cli": "bin/index.js"
+  }
+}
